@@ -1,9 +1,9 @@
 {
-    "name": "◉ 𝐎𝐕𝐄𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
-    "logo": "https://telegra.ph/file/89f23433043a4bfa255c3.jpg",
+    "name": "◉ 𝐖𝐞𝐞𝐝𝐥𝐞𝐚𝐟 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
+    "logo": "https://te.legra.ph/file/50131d5f2ff665829effe.jpg",
     "description": "The first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/itszshivam/OP-Userbot2",
+    "repository": "https://github.com/gamingbuddyyy/OP-Userbot2",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
