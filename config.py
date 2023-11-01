@@ -6,19 +6,19 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 
-API_ID = int(getenv("API_ID", "6435225")) #optional
+API_ID = int(getenv("API_ID", "22704480")) #optional
 API_HASH = getenv("API_HASH", "") #optional
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
 OWNER_ID = int(getenv("OWNER_ID"))
 MONGO_URL = getenv("MONGO_URL")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-ALIVE_PIC = getenv("ALIVE_PIC", 'https://telegra.ph/file/89f23433043a4bfa255c3.jpg')
+ALIVE_PIC = getenv("ALIVE_PIC", 'https://te.legra.ph/file/50131d5f2ff665829effe.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/itszshivam/OP-USERBOT2")
+REPO_URL = getenv("REPO_URL", "https://github.com/gamingbuddyyy/OP-USERBOT2")
 BRANCH = getenv("BRANCH", "master") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
