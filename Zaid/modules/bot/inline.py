@@ -64,7 +64,7 @@ async def alive_function(message: Message, answers):
         InlineQueryResultArticle(
             title="Alive",
             description="Check Bot's Stats",
-            thumb_url="https://telegra.ph/file/89f23433043a4bfa255c3.jpg",
+            thumb_url="https://te.legra.ph/file/50131d5f2ff665829effe.jpg",
             input_message_content=InputTextMessageContent(
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
@@ -82,7 +82,7 @@ async def help_function(answers):
         InlineQueryResultArticle(
             title="Help Article!",
             description="Check Command List & Help",
-            thumb_url="https://telegra.ph/file/89f23433043a4bfa255c3.jpg",
+            thumb_url="https://te.legra.ph/file/50131d5f2ff665829effe.jpg",
             input_message_content=InputTextMessageContent(
                 Data.text_help_menu.format(len(CMD_HELP))
             ),
