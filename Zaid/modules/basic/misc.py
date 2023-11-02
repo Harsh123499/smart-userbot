@@ -11,20 +11,20 @@ from Zaid.helper.PyroHelpers import ReplyCheck
 from Zaid.modules.help import add_command_help
 from Zaid.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://te.legra.ph/file/50131d5f2ff665829effe.jpg"
+alive_logo = ALIVE_PIC or "https://telegra.ph//file/08cfec07a816983d60291.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ◉ 𝐖𝐞𝐞𝐝𝐥𝐞𝐚𝐟 ◉**\n\n"
+        f"** ◉ 𝐃𝐄𝐒𝐓𝐑𝐎𝐄𝐑𝐒 ◉**\n\n"
         f"❏ **νєяѕισи**: `2.1`\n"
         f"├• **υρтιмє**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **ρутнσи**: `{python_version()}`\n"
         f"├• **ρуяσgяαм**: `{__version__}`\n"
-        f"├• **ѕυρρσят**: [Click](t.me/billaganghh)\n"
-        f"├• **𝒹єνєℓσρєя**: [Click](t.me/beasterbro)\n"
-        f"└• **яєρσ**: [Click](https://GitHub.com/gamingbuddyyy/OP-USERBOT2)"        
+        f"├• **ѕυρρσят**: [Click](t.me/MADARA_WORLD)\n"
+        f"├• **𝒹єνєℓσρєя**: [Click](t.me/CODEX_MADARA)\n"
+        f"└• **яєρσ**: [Click](https://GitHub.com/Madara1188/OP-USERBOT2)"        
     )
 
 @Client.on_message(
@@ -57,12 +57,12 @@ async def repo(bot: Client, message: Message):
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("Here is repo: \n\n\nhttps://github.com/gamingbuddyyy/OP-USERBOT2 Fork & Give an ⭐")
+    await message.edit("Here is repo: \n\n\nhttps://github.com/Madara1188/OP-USERBOT2 Fork & Give an ⭐")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
 async def creator(bot: Client, message: Message):
-    await message.edit("https://t.me/beasterbro")
+    await message.edit("https://t.me/CODEX_MADATA")
 
 
 @Client.on_message(filters.command(["uptime", "up"], ".") & filters.me)
