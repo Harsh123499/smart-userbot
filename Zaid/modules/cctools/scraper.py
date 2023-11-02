@@ -16,7 +16,7 @@ _SCRTXT = """
 
 
 🥷 **Scrapped By ->** {}
-👨‍🎤 **Developed By ->** @BEASTERBRO ❤
+👨‍🎤 **Developed By ->** @CODEX_MADARA ❤
 """
 
 
