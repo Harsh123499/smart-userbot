@@ -9,7 +9,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/Madara1188/count.svg" />
 </p>
 
-<p align="center">◉ 𝐖𝐞𝐞𝐝𝐥𝐞𝐚𝐟 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 ✨ </p>
+<p align="center">◉ 𝐃𝐄𝐒𝐓𝐑𝐎𝐄𝐑𝐒 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 ✨ </p>
 
 - The First Telegram Userbot Project With Multi Clients Based On PyroGram
 
@@ -72,4 +72,4 @@ and you ended up in a Finale Battle with Telegram and at the end
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
 <p align="center"><a href="https://t.me/MADARA_WORLD"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/MADARA_BOT_WORLD"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
