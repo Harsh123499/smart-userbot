@@ -17,13 +17,13 @@ aiosession = ClientSession()
 if API_ID:
    API_ID = API_ID
 else:
-   print("WARNING: API ID NOT FOUND USING ◉ 𝐖𝐞𝐞𝐝𝐥𝐞𝐚𝐟 ◉ API ⚡")
+   print("WARNING: API ID NOT FOUND USING ◉ 𝐃𝐄𝐒𝐓𝐑𝐎𝐄𝐑𝐒 ◉ API ⚡")
    API_ID = "22704480"
 
 if API_HASH:
    API_HASH = API_HASH
 else:
-   print("WARNING: API HASH NOT FOUND USING  ◉ 𝐖𝐞𝐞𝐝𝐥𝐞𝐚𝐟 ◉ API ⚡")   
+   print("WARNING: API HASH NOT FOUND USING  ◉ 𝐃𝐄𝐒𝐓𝐑𝐎𝐄𝐑𝐒 ◉ API ⚡")   
    API_HASH = "0df6b5db8dc71c3672956fe63a958866"
 
 if not BOT_TOKEN:
