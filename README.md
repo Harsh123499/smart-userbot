@@ -37,7 +37,7 @@
 
 [ꜰᴏʀᴋᴇᴅ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ ʜᴇʀᴇ](https://telegra.ph/file/89f23433043a4bfa255c3.jpg)
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/gamingbuddyyy/OP-USERBOT2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Madara1188/OP-USERBOT2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
