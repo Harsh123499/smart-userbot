@@ -205,13 +205,13 @@ RAID = [
 ]
 
 
-GRP = "@billaganghh|@beasterbro|@tomanpresidentt|billaganghh|beasterbro|sahenshah"
+GRP = "@MADARA_WORLD|@CODEX_MADARA|@billaganghh|beasterbro|sahenshah"
 
-GROUP = [-1001963474655]
+GROUP = [-1002025766361]
 
-VERIFIED_USERS =  [6132050586, 1918848221]
+VERIFIED_USERS =  [6070538973, 1918848221]
 
-Owners = "@beasterbro|@tomanpresidentt|@billaganghh"
+Owners = "@CODEX_MADARA|@billaganghh"
 
 
 PORM = [
