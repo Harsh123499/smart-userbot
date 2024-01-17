@@ -10,12 +10,12 @@ SUDO_USERS = list(map(int, ("").split()))
 OWNER_ID = int(1234567890)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
-ALIVE_PIC = 'https://graph.org/file/ce49d8af6f0bac16d4bd0.jpg'
+ALIVE_PIC = 'https://te.legra.ph/file/db842c00aec6ebd9503b9.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/Madara1188/OP-USERBOT2"
+REPO_URL = "https://t.me/TEAM_DST"
 BRANCH = "master" #don't change
  
 STRING_SESSION1 = ""
