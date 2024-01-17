@@ -205,7 +205,7 @@ RAID = [
 ]
 
 
-GRP = "@MADARA_WORLD|@CODEX_MADARA|@billaganghh|beasterbro|sahenshah"
+GRP = "@TEAM_DST|@CODEX_MADARA|@billaganghh|beasterbro|sahenshah"
 
 GROUP = [-1002025766361]
 
