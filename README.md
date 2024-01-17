@@ -13,7 +13,7 @@
 
 - The First Telegram Userbot Project With Multi Clients Based On PyroGram
 
-<p align="center"><a href="https://t.me/MADARA_WORLD"><img src="https://graph.org/file/ce49d8af6f0bac16d4bd0.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/TEAM_DST"><img src="https://te.legra.ph/file/db842c00aec6ebd9503b9.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
