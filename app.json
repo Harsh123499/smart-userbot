@@ -1,9 +1,9 @@
 {
-    "name": "◉ 𝐃𝐄𝐒𝐓𝐑𝐎𝐄𝐑𝐒 ◉ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
-    "logo": "https://graph.org/file/ce49d8af6f0bac16d4bd0.jpg",
+    "name": "☯︎ 𝐗𝐘𝐍𝐄𝐗𝐈𝐎𝐔𝐒 ☯︎ 🅄🅂🄴🅁🄱🄾🅃 ✨",
+    "logo": "https://te.legra.ph/file/2902084e5fa8c997d867b.jpg",
     "description": "The first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/Madara1188/OP-Userbot2",
+    "repository": "https://github.com/Harsh123499/Smart-userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
