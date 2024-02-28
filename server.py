@@ -7,7 +7,7 @@ api = Api(app)
 
 class Greeting (Resource):
     def get(self):
-        return "◉ 𝐃𝐄𝐒𝐓𝐑𝐎𝐄𝐑𝐒 ◉ Userbot is Up & Running!"
+        return "☯︎ 𝐗𝐘𝐍𝐄𝐗𝐈𝐎𝐔𝐒 ☯︎ 🅄🅂🄴🅁🄱🄾🅃 ✨ is Up & Running!"
 
 api.add_resource(Greeting, '/')
 app.run(host="0.0.0.0", port=os.environ.get("PORT", 8080))
