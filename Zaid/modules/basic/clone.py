@@ -49,7 +49,7 @@ async def revert(client: Client, message: Message):
     # Delte first photo to get ur identify
     photos = [p async for p in client.get_chat_photos("me")]
     await client.delete_profile_photos(photos[0].file_id)
-    await message.edit("`I am back!`")
+    await message.edit("`ME is back!`")
 
 
 add_command_help(
